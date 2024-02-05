@@ -1,5 +1,6 @@
 # i5-4590-GK107-740-H81MP33
 Hackintosh EFI for i5 4590 - GK107 740 - H81MP33
+Can be use w/ all Haswell CPUs.
 Device  | Status
 ------------- | -------------
 | Quad Core Intel Core i5-4590  | ✅ |
